@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /mayi
+  port: 8081
+
+
